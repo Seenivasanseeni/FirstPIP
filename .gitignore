@@ -1,0 +1,4 @@
+#directories created while running setup.py
+build
+dist
+*.egg-info
